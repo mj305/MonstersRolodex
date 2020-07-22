@@ -13,4 +13,54 @@ h1 {
   color: #0ccac4;
 }
 
+@media (max-width: 3371px) {
+  h1 {
+    font-family: 'Bigelow Rules';
+    font-size: 120px;
+    color: #0ccac4;
+  }
+}
 
+@media (max-width: 1090px) {
+  h1 {
+    font-family: 'Bigelow Rules';
+    font-size: 110px;
+    color: #0ccac4;
+  }
+}
+
+@media (max-width: 515px) {
+  h1 {
+    font-size: 106px;
+  }
+}
+
+@media (max-width: 414px) {
+  h1 {
+    font-size: 87px;
+  }
+}
+
+@media (max-width: 375px) {
+  h1 {
+    font-size: 82px;
+  }
+}
+
+@media (max-width: 334px) {
+  h1 {
+    font-size: 74px;
+}
+}
+
+@media (max-width: 334px) {
+  h1 {
+    font-size: 70px;
+}
+}
+
+@media (max-width: 259px) {
+  h1 {
+    font-size: 60px;
+}
+}
