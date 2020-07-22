@@ -68,5 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### Repl.It
-[![Run on Repl.it]
-(https://repl.it/badge/github/mj305/MonstersRolodex)](https://repl.it/github/mj305/MonstersRolodex)
+[![Run on Repl.it](https://repl.it/badge/github/mj305/MonstersRolodex)](https://repl.it/github/mj305/MonstersRolodex)
